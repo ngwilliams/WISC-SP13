@@ -1,0 +1,1 @@
+The WISC-SP13 processor was created for cs552 Introduction to Computer Architecture. It is a five stage pipelined processor based off of a MIPS ISA. Features include a cache, branch prediction, and stalling memory.
